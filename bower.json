@@ -1,12 +1,11 @@
 {
-    "name": "branderati-propeller",
-    "version": "0.0.1",
-    "main": "./src/propeller.js",
-    "homepage": "https://github.com/branderati/propeller",
-    "ignore": [],
-    "dependencies": {
-        "jquery": ">= 2.1.0"
-    },
-    "keywords": [
-    ]
+  "name": "branderati-propeller",
+  "version": "0.0.2",
+  "main": "./src/propeller.js",
+  "homepage": "https://github.com/branderati/propeller",
+  "ignore": [],
+  "dependencies": {
+    "jquery": ">= 2.1.0"
+  },
+  "keywords": []
 }
